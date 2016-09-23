@@ -1,6 +1,6 @@
 # How to write like Seed
 
-*Background: This document is a brief description of Seed’s brand voice, and will give you some tips on how to compose messages that sound consistent, authentic, and authoritative. Much of this comes from a very useful working document that can be found here.*
+*Background: This document is a brief description of Seed’s brand voice, and will give you some tips on how to compose messages that sound consistent, authentic, and authoritative. Much of this comes from a very useful working document that can be found [here](https://github.com/the-rachel/styles/blob/master/Seed/seed-working.md).*
 
 ## Overview
 

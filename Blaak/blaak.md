@@ -41,7 +41,6 @@ People who’ve never managed a portfolio can feel understandably daunted when i
 
 | | Helpful | Harmful |
 |---|---|----|
-| Internal | **Strengths:** driven and passionate leadership, solid industry knowledge, talented team, clear vision for company direction, commitment to long-term growth and running a successful, ethical company | 
-**Weaknesses:** inexperience in startups/vc culture, need more information about the market, need more concrete vision for product and messaging direction, weak differentiation from competitors |
+| Internal | **Strengths:** driven and passionate leadership, solid industry knowledge, talented team, clear vision for company direction, commitment to long-term growth and running a successful, ethical company | **Weaknesses:** inexperience in startups/vc culture, need more information about the market, need more concrete vision for product and messaging direction, weak differentiation from competitors |
 | External | **Opportunities:** unsustainable practices in corporate banks’ investment arms, growing tech-savvy audience who want automated, friendly financial management | **Threats:** established competitors with similar offerings, target demographics, and philosophies. |
 

@@ -26,8 +26,11 @@ Start [here](https://github.com/the-rachel/styles/blob/master/Simple/Writing%20t
 
 ## Seed
 
-The other useful style guides that I have on hand as a good example of my work is the one I wrote for [Seed](https://seed.co). Though I now work full-time for Seed, this is something I did as a consultant for them. I was contracted to write marketing copy, do branding research, and help with job descriptions. As with many of my consulting gigs, I started with a quick writing guide and a document about overall messaging.
+Another useful set of guides that I have on hand as a good example of my work is the one I wrote for [Seed](https://seed.co). Though I now work full-time for Seed, this is something I did as a consultant for them. I was contracted to write marketing copy, do branding research, and help with job descriptions. As with many of my consulting gigs, I started with a quick writing guide and a document about overall messaging.
 
-- [Seed writing principles]
+- [Seed writing principles](https://github.com/the-rachel/styles/blob/master/Seed/seed-writing.md). A basic guide detailing the principles of writing for Seed.
+- [Seed brand background](https://github.com/the-rachel/styles/blob/master/Seed/seed-working.md). Some of the ideas behind the writing guide.
 
 ## Blaak
+
+Blaak has now pivoted completely, and renamed themselves to [Vault](https://ivault.co). But back when they wanted to provide a [Betterment](http://www.betterment.com)- or [Wealthfront](http://www.wealthfront.com)-style personal investing service, I drafted [this](https://github.com/the-rachel/styles/blob/master/Blaak/blaak.md) document to help them with their writing and brand direction.
