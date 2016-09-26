@@ -17,8 +17,10 @@ For a quick version, I'll highlight some of the things I think best represent my
 - [Simple voice and tone](https://github.com/the-rachel/styles/blob/master/Simple/Big%20Stuff/voiceandtone.md). Owing a big debt of gratitude to Mailchimp's [voiceandtone.com](http://voiceandtone.com/), this is Simple's version, which is a whole lot more detailed because in general, money is more likely to be an emotional subject than email marketing. There are 30 articles about different cases in which a person might have to write copy. A good example is [this one](https://github.com/the-rachel/styles/blob/master/Simple/Big%20Stuff/Articles/Application.md) on writing copy for the application to become a customer.
 
 - [An abbreviated style guide](https://github.com/the-rachel/styles/blob/master/Simple/Nitty-Gritty/strunkyfresh.md). This has the most commonly-needed rules on when to use certain types of punctuation, grammar, and all that.
+ 
+- [A presentation on empathy](https://github.com/the-rachel/styles/blob/master/Simple/empathy2.pdf) (PDF). This ties together a bunch of research and some of our internal stuff for a talk on empathy. It focused a lot on customer service employees, who bear the brunt of empathy exhaustion, but was also given to people who design UX, write copy, or almost any customer-facing function. It talks about formulas and strategies for empathetic communication and design.
 
-- [A presentation on empathy](https://github.com/the-rachel/styles/blob/master/Simple/empathy2.pdf)(PDF). This ties together a bunch of research and some of our internal stuff for a talk on empathy. It focused a lot on customer service employees, who bear the brunt of empathy exhaustion, but was also given to people who design UX, write copy, or almost any customer-facing function. It talks about formulas and strategies for empathetic communication and design.
+- [A presentation for the marketing team](https://github.com/the-rachel/styles/blob/master/Simple/Voiceandtone.pdf) about how to talk to our audience, and how not to talk to anyone ever.
 
 ### The self-guided tour
 
