@@ -12,7 +12,7 @@ The majority of my experience and examples come from Simple. I worked at [Simple
 
 For a quick version, I'll highlight some of the things I think best represent my work with Simple.
 
-- [Simple's core writing values](https://github.com/the-rachel/styles/blob/master/Big%20Stuff/styleguide.md). Basically, if our style guide or voice and tone compendium have falied to provide you an answer, here are the things to think about when you're making writing decisions.
+- [Simple's core writing values](https://github.com/the-rachel/styles/blob/master/Simple/Big%20Stuff/styleguide.md). Basically, if our style guide or voice and tone compendium have falied to provide you an answer, here are the things to think about when you're making writing decisions.
 
 - [Simple voice and tone](https://github.com/the-rachel/styles/blob/master/Simple/Big%20Stuff/voiceandtone.md). Owing a big debt of gratitude to Mailchimp's [voiceandtone.com](http://voiceandtone.com/), this is Simple's version, which is a whole lot more detailed because in general, money is more likely to be an emotional subject than email marketing. There are 30 articles about different cases in which a person might have to write copy. A good example is [this one](https://github.com/the-rachel/styles/blob/master/Simple/Big%20Stuff/Articles/Application.md) on writing copy for the application to become a customer.
 
