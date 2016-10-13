@@ -127,5 +127,4 @@ Examples:
 
 > - *"We regret to inform you that..."*
 
-> - *"This service message was sent to you as a Chase customer to provide you with account updates and information about your Chase relationship."*
-
+> - *"This service message was sent to you as a Chase customer to provide you with account updates and information about your Chase relationship."* 
