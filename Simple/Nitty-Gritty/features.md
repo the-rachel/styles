@@ -1,14 +1,14 @@
-#How To Write About Simple, the Product. (A perpetual work in progress)
+# How To Write About Simple, the Product. (A perpetual work in progress)
 
 Simple, as a product, refers to our web and mobile apps and services, the card, and the customer experience, which includes Customer Relations. 
 
-##Table of Contents!!
+## Table of Contents!!
 
 - Glossary
-	- On Capitalization
+- On Capitalization
 - In-depth Glossary
 
-##Glossary of Brand Terms
+## Glossary of Brand Terms
 
 Here you will find some basic terms we use in talking about ourselves, including proper capitalization. Some terms requiring more nuance are linked for more information.
 
