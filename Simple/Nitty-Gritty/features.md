@@ -40,7 +40,7 @@ Here you will find some basic terms we use in talking about ourselves, including
 - **Transaction View** - the extra info you get when you select an individual transaction
 - **transfer** - an individual transfer sent with Payments & Transfers
 
-###On Capitalization
+### On Capitalization
 
 *In general*, a term is capitalized if it refers to a specific area of our product, or a specific feature. If you can navigate to or direct your gaze to a concrete section of the product, it's probably capitalized. For example, **Scheduled Activity** (capitalized) is the name of the section where you can view your scheduled transactions. A **scheduled activity** (not capitalized) is a transaction you have coming up. **External Accounts** (capitalized) is the section of your Simple account where you view your **external accounts** (not capitalized). You'd click on Support Articles (the section) to read our support articles (the articles themselves). AND SO FORTH.
 
@@ -50,9 +50,9 @@ Here you will find some basic terms we use in talking about ourselves, including
 
 *Customer Relations* is capitalized because there's no industry-standard name for this team or concept. Some places call it Support or Customer Support or Customer Care. Our team is called Customer Relations, but every marketing team is a marketing team. 
 
-##In-depth Glossary
+## In-depth Glossary
 
-###Goals
+### Goals
 Our feature is called "Goals". The first time it's mentioned in a particular piece of communication, you may need to give it context, such as calling it "our Goals feature". Thereafter, you should just call it Goals, if you can. Goals is actually singular&mdash;as in "Goals is a fun, flexible tool for budgeting and saving." Individual Goals are capitalized, as in "I set a Goal to quit my job and become a farmer." However, if you're talking about the concept of savings goals, don't capitalize, even in the context of our Goals feature. For example:
 > *Safe-to-Spend® gives you a more complete picture of your account. It takes your current balance, then subtracts your savings goals, upcoming payments, and pending transactions.*
 
