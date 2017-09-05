@@ -36,7 +36,7 @@
 ## Emails
 ### Lifecycle 
 - [Brand new customers](https://github.com/the-rachel/styles/blob/master/Simple/Big%20Stuff/Articles/activation-early.md)
-- [Engaged customers](https://github.com/the-rachel/styles/blob/master/Simple/Articles/activate-engaged.md)
+- [Engaged customers](https://github.com/the-rachel/styles/blob/master/Simple/Big%20Stuff/Articles/activate-engaged.md)
 - [In danger and idle](https://github.com/the-rachel/styles/blob/master/Simple/Big%20Stuff/Articles/in-danger-idle.md)
 - [Invite and IDV reminders](https://github.com/the-rachel/styles/blob/master/Simple/Big%20Stuff/Articles/invite-idv.md)
 
