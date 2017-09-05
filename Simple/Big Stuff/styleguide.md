@@ -2,6 +2,8 @@
 
 (Want a TL;DR version of how marketing should think of voice and tone? [Here you go](https://github.com/the-rachel/styles/blob/master/Simple/Voiceandtone.pdf) (PDF).
 
+This page used to have images on it that were Simple in-jokes. Sorry they aren't here!
+
 ## Money is inherently, inescapably emotional
 
 Seems obvious, doesn't it? You think about money in almost any decision you make, large or small. You plan your future around money. You view your own self-worth in part based on your financial situation. So why do so many banks use dry, unemotional, detached language to speak to their customers? Our theory is that by acknowledging (overtly or not) the strong emotional associations people have to money, we can give them a more relatable and more trustworthy interaction.
