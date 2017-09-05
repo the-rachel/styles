@@ -1,6 +1,6 @@
 # Core writing values and big ideas
 
-(Want a TL;DR version of how marketing should think of voice and tone? [Here you go](https://github.com/the-rachel/styles/blob/master/Big%20Stuff/Voiceandtone.pdf) (PDF). You can get more from that presentation [here](https://drive.google.com/a/simple.com/folderview?id=0BzeOQB5ld5OZflJRY3ZxSklaZ3gxbmtWellXVld5OHhhd3lfZjYteTlzQ1dKeGhhRmpzc0E&usp=sharing))
+(Want a TL;DR version of how marketing should think of voice and tone? [Here you go](https://github.com/the-rachel/styles/blob/master/Simple/Voiceandtone.pdf) (PDF). You can get more from that presentation [here](https://drive.google.com/a/simple.com/folderview?id=0BzeOQB5ld5OZflJRY3ZxSklaZ3gxbmtWellXVld5OHhhd3lfZjYteTlzQ1dKeGhhRmpzc0E&usp=sharing))
 
 ## Money is inherently, inescapably emotional
 
