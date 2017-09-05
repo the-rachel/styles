@@ -14,9 +14,6 @@ Anytime one of our services or our partners' services are not functioning proper
 - Each situation will have specifics. The language below is general, and should be supplemented with more specifics. For example, "you can't schedule a payment right now, but you should be able to in about an hour." Or, "our check processing partner is experiencing an issue right now, and we're working with them to have it fixed soon."
 
 
-The two biggest rules are encapsulated in this image:
-
-![](https://simple-monosnap.s3.amazonaws.com/Screen_Shot_20140605_at_6.20.39_PM.png)
 
 **Why don't we say "outage"?** Good question! We're big fans of transparency and telling it like it is, right? So why wouldn't we call an outage an outage. Couple'a reasons: one, it's not very specific. We can be more precise, and that will give the customer more handle on what's *actually* going on. Two, it's panic-inducing. Panic is bad. We don't want that.
 
