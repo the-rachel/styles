@@ -45,7 +45,7 @@ When you’re looking for an editorial voice, it’s often useful to think about
 
 **Enthusiastic.** This one’s pretty straightforward. Enthusiasm means passion, energy, and expertise. Enthusiastic people will actively seek new experiences and will work to incorporate their interests into their lives. Enthusiastic people are the type to drag their friends out of the house after a breakup, or make time to be at a gallery opening even if they’re going alone. They’re extroverted and enjoy making others happy.
 
-![](https://github.com/the-rachel/styles/blob/master/Doing/chart.png)
+![](https://github.com/the-rachel/styles/blob/master/Doing/chart1.png)
 *Enthusiasm DNA*
 
 **Local.** I’m interpreting the word “local” here somewhat broadly: a local is a native of the space they inhabit. So, for example, it’s easy to imagine how a local of Portland would talk about their beloved Portland, but how about someone who spends all their time in the children’s birthday party scene? That person would have OPINIONS about bouncy house rentals, ponies, terrifying clowns, princess impersonators, cupcake bakers, etc., which means that’s exactly who you’d want to ask. Or on the flip side, someone who’s well-versed in the Doing app itself, and passionate about it. What if that person could design the onboarding experience for vendors, venues, organizations, etc.? 
