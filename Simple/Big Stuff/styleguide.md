@@ -82,7 +82,7 @@ Imagine the 60-year-old white dude who thought this was a good idea because this
 
 >![](https://simple-monosnap.s3.amazonaws.com/Idhitit.jpg)
 >
-><i>This is [a real McDonald's ad](http://www.ramblingbeachcat.com/2011/09/amazing-moments-in-advertising.html). This is what happens when you appropriate a culture you shouldn't.
+>*This is [a real McDonald's ad](http://www.ramblingbeachcat.com/2011/09/amazing-moments-in-advertising.html). This is what happens when you appropriate a culture you shouldn't.*
 
 Don't be that guy.
 
