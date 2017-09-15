@@ -19,7 +19,7 @@ You already have a couple of guiding statements:
 
 As you can see, one of those is pragmatic and the other is unattainable, so, way to go! But, both are pretty short on details. For my purposes, I needed something a bit meatier to begin building out this document. This one is quick and dirty (as evidenced by the weird soup of prepositions), so it’s not ready for prime time. Still, it’s a pretty good one-sentence (as ugly as that sentence is) distillation of what I’ve gathered from listening to everyone at Doing.
 
-** *Doing helps people engage with the world around them by connecting them with experiences that will deepen their bonds with their neighbors, their communities, and themselves.* **
+***Doing helps people engage with the world around them by connecting them with experiences that will deepen their bonds with their neighbors, their communities, and themselves.***
 
 This is the statement that’s more strategic. This is the one we use to measure our decisions against: is this thing that I’m doing going to help connect people with experiences? Does this help a person deepen their bonds with their neighbors, their community, or themselves? Is this a thing that would help someone engage with the world around them? Etc. For the lofty, far-reaching statement, I don’t see how you could get much loftier than **“Experience everything”**, so I’m keeping that one in my head just as it is, though I do think if you go the “we need a mission AND a vision” route, this should be a little more specific (but only a little).
 
