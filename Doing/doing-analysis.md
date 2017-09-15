@@ -1,5 +1,7 @@
 **This is a typical example of a brand analysis I’d do after interviews with company stakeholders and research about the space. This particular analysis is from a startup called Doing (doing.io), which aims to aggregate experiences and events from all over the web into one unified platform, and integrate with merchants and organizations to help them promote their activity calendars. PLEASE DO NOT SHARE any of the below; this is only being shared as an example of my work.**
 
+If you'd like this as a .PDF, [here it is](https://github.com/the-rachel/styles/blob/master/Doing/Doing%20brand%20analysis%20and%20recommendations.pdf)
+
 -----------------------------------
 
 *The purpose of this document is to begin the work of synthesizing and solidifying all the great work you have done up to this point in defining your brand. This document sets forth some recommendations for broader themes, personality, high level strategy, and other stuff too! The feedback I collect on this document will be the bones for your style guide.* 
@@ -42,6 +44,9 @@ When you’re looking for an editorial voice, it’s often useful to think about
 *Enthusiastic local.* Let’s pick it apart a little.
 
 **Enthusiastic.** This one’s pretty straightforward. Enthusiasm means passion, energy, and expertise. Enthusiastic people will actively seek new experiences and will work to incorporate their interests into their lives. Enthusiastic people are the type to drag their friends out of the house after a breakup, or make time to be at a gallery opening even if they’re going alone. They’re extroverted and enjoy making others happy.
+
+![](https://github.com/the-rachel/styles/blob/master/Doing/chart.png)
+*Enthusiasm DNA*
 
 **Local.** I’m interpreting the word “local” here somewhat broadly: a local is a native of the space they inhabit. So, for example, it’s easy to imagine how a local of Portland would talk about their beloved Portland, but how about someone who spends all their time in the children’s birthday party scene? That person would have OPINIONS about bouncy house rentals, ponies, terrifying clowns, princess impersonators, cupcake bakers, etc., which means that’s exactly who you’d want to ask. Or on the flip side, someone who’s well-versed in the Doing app itself, and passionate about it. What if that person could design the onboarding experience for vendors, venues, organizations, etc.? 
 
