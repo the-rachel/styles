@@ -6,7 +6,7 @@ A lot of this stuff is either IP of the company I worked for when I created it, 
 
 ## Doing
 Doing ([doing.io](https://www.doing.io)) aims to aggregate experiences and events from all over the web into one unified platform. In the future, they hope to integrate with merchants and organizations to help them promote their activity calendars. I worked with Doing to hone their brand voice, create marketing and customer contact materials, and nail messaging themes for potential customers, business partnerships, and investors.
-- [Doing Brand Analysis](https://github.com/the-rachel/styles/blob/master/Doing/doing-analysis.md). This is the initial analyisis I did for Doing after meeting with their founders and staff, and researching the space they're in. This is typical of what I provide my clients.
+- [Doing Brand Analysis](https://github.com/the-rachel/styles/blob/master/Doing/doing-analysis.md). This is the initial analyisis I did for Doing after meeting with their founders and staff, and researching the space they're in. **This is typical of what I provide my clients**.
 - ["You Are What You Do" blog post](https://blog.doing.io/you-are-what-you-do-e9da2d102709) (external link). This is a blog post I ghostwrote with edits from the team. The messaging and themes (namely "you are what you do") and the concepts presented in this post are my original work, done to help the team frame their narrative. This is a good example of using the above brand analysis to inform messaging themes.
 
 ## Simple
@@ -40,4 +40,4 @@ Another useful set of guides that I have on hand as a good example of my work is
 
 ## Blaak
 
-Blaak has now pivoted completely, and renamed themselves to [Vault](https://ivault.co). But back when they wanted to provide a [Betterment](http://www.betterment.com)- or [Wealthfront](http://www.wealthfront.com)-style personal investing service, I drafted [this](https://github.com/the-rachel/styles/blob/master/Blaak/blaak.md) document to help them with their writing and brand direction.
+Blaak pivoted completely, and renamed themselves to Vault, a retirement savings platform. They were recently acquired and are now [Acorns Later](https://www.acorns.com/acorns-later/). But back when they wanted to provide a [Betterment](http://www.betterment.com)- or [Wealthfront](http://www.wealthfront.com)-style personal investing service, I drafted [this](https://github.com/the-rachel/styles/blob/master/Blaak/blaak.md) document to help them with their writing and brand direction, and some of that spirit has remained with them even through their acquisition.
