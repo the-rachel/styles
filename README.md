@@ -27,6 +27,8 @@ For a quick version, I'll highlight some of the things I think best represent my
 
 - [A presentation for the marketing team](https://github.com/the-rachel/styles/blob/master/Simple/Voiceandtone.pdf) about how to talk to our audience, and how not to talk to anyone ever.
 
+- [An early video ad for Simple](https://vimeo.com/160291191) (External link) I was instrumental in developing the concept for this ad, helped write and edit the script, and wrote the tagline at the end.
+
 ### The self-guided tour
 
 Start [here](https://github.com/the-rachel/styles/blob/master/Simple/Writing%20the%20Simple%20Way.md) for a directory representing what the How To Write repository looked like when I left Simple in May 2015. There are resources that give more of an overview of the philosophies of how we write, as well as specific examples of how to write copy for almost any occasion.
