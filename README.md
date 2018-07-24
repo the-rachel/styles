@@ -33,7 +33,7 @@ Start [here](https://github.com/the-rachel/styles/blob/master/Simple/Writing%20t
 
 ## Seed
 
-Another useful set of guides that I have on hand as a good example of my work is the one I wrote for [Seed](https://seed.co). Though I now work full-time for Seed, this is something I did as a consultant for them. I was contracted to write marketing copy, do branding research, and help with job descriptions. As with many of my consulting gigs, I started with a quick writing guide and a document about overall messaging.
+Another useful set of guides that I have on hand as a good example of my work is the one I wrote for [Seed](https://seed.co). I was contracted to write marketing copy, do branding research, and help with job descriptions. As with many of my consulting gigs, I started with a quick writing guide and a document about overall messaging. I was later hired as a full-time employee to help guide the brand voice and direction.
 
 - [Seed writing principles](https://github.com/the-rachel/styles/blob/master/Seed/seed-writing.md). A basic guide detailing the principles of writing for Seed.
 - [Seed brand background](https://github.com/the-rachel/styles/blob/master/Seed/seed-working.md). Some of the ideas behind the writing guide.
