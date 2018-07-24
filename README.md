@@ -23,7 +23,7 @@ For a quick version, I'll highlight some of the things I think best represent my
 
 - [An abbreviated style guide](https://github.com/the-rachel/styles/blob/master/Simple/Nitty-Gritty/strunkyfresh.md). This has the most commonly-needed rules on when to use certain types of punctuation, grammar, and all that.
  
-- [An apology blog post](https://www.simple.com/company/my-apology-to-you). As tech screw-up apologies have almost become a genre unto themselves, I was very proud of this post I ghostwrote for our CEO. It meant a lot to him to get it right, so he trusted me absolutely to make sure we did. This was a pretty huge mess, and the post needed to explain some complex technical concepts, assure customers their accounts were safe, and demonstrate a genuine understanding of the impact. 
+- [An apology blog post](https://www.simple.com/company/my-apology-to-you). (External link) As tech screw-up apologies have almost become a genre unto themselves, I was very proud of this post I ghostwrote for our CEO. It meant a lot to him to get it right, so he trusted me absolutely to make sure we did. This was a pretty huge mess, and the post needed to explain some complex technical concepts, assure customers their accounts were safe, and demonstrate a genuine understanding of the impact. 
 
 - [A presentation on empathy](https://github.com/the-rachel/styles/blob/master/Simple/empathy2.pdf) (PDF). This ties together a bunch of research and some of our internal stuff for a talk on empathy. It focused a lot on customer service employees, who bear the brunt of empathy exhaustion, but was also given to people who design UX, write copy, or almost any customer-facing function. It talks about formulas and strategies for empathetic communication and design.
 
