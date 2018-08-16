@@ -4,6 +4,8 @@ This repository represents a collection of some of the work I've done to teach t
 
 A lot of this stuff is either IP of the company I worked for when I created it, or is in somewhat murky territory IP-wise. Much of it could be reworked to avoid IP stuff, but I haven't yet taken that step. Either way, it is pretty much just for the eyes of whoever has received the link to it. If anything here interests you, I would be happy to figure out how we could work it into something usable.
 
+Unfortuntely I don't have examples of work I did writing in-app copy, microcopy, tweets, Facebook and Instagram copy, and other such ephemeral things, as most of that work was done prior to my time as a freelancer. (And, to be honest I never thought to take screenshots of it! Oops.) However I do have extensive experience with all of those and more, and I'm happy to talk through my approach.
+
 ## Doing
 Doing ([doing.io](https://www.doing.io)) aims to aggregate experiences and events from all over the web into one unified platform. In the future, they hope to integrate with merchants and organizations to help them promote their activity calendars. I worked with Doing to hone their brand voice, create marketing and customer contact materials, and nail messaging themes for potential customers, business partnerships, and investors.
 - [Doing Brand Analysis](https://github.com/the-rachel/styles/blob/master/Doing/doing-analysis.md). This is the initial analyisis I did for Doing after meeting with their founders and staff, and researching the space they're in. **This is typical of what I provide my clients initially.**.
