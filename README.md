@@ -1,8 +1,14 @@
 # Rachel on Writing
 
+Hi, thanks for being here! You probably know that my name is Rachel, and I'm an expert writer and brand strategist. The two are very intertwined, of course, but you're probably looking for one or the other.
+
+# Brand and Content Strategy
+
 This repository represents a collection of some of the work I've done to teach tech companies to write in a way that is approachable, inclusive, and genuine. Over the course of my career it's been a personal and professional goal of mine to ensure that the companies I've represented are at the forefront of inclusive, intersectionally-just writing. Another huge goal of mine has been to teach the art of writing with empathy and true emotional intelligence. These things can't be faked or bought; they require the expertise of someone who has the company's values in mind as much as its bottom line. It also requires buy-in at many levels and a sincere understanding of the importance of inclusion and empathy.
 
-A lot of this stuff is either IP of the company I worked for when I created it, or is in somewhat murky territory IP-wise. Much of it could be reworked to avoid IP stuff, but I haven't yet taken that step. Either way, it is pretty much just for the eyes of whoever has received the link to it. If anything here interests you, I would be happy to figure out how we could work it into something usable.
+A lot of this stuff is either IP of the company I worked for when I created it, or is in somewhat murky territory IP-wise. Much of it could be reworked to avoid IP stuff, but I haven't yet taken that step. Either way, it is pretty much just for the eyes of whomever has received the link to it. If anything here interests you, I would be happy to figure out how we could work it into something usable.
+
+# Writing Portfolio
 
 Unfortuntely I don't have examples of work I did writing in-app copy, microcopy, tweets, Facebook and Instagram copy, and other such ephemeral things, as most of that work was done prior to my time as a freelancer. (And, to be honest I never thought to take screenshots of it! Oops.) However I do have extensive experience with all of those and more, and I'm happy to talk through my approach.
 
