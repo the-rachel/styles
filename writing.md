@@ -1,6 +1,6 @@
 This page is getting fleshed out right now! Meantime, a lot of the stuff you would want to see is in the [Brand and Content Strategy](https://github.com/the-rachel/styles/blob/master/brand.md) section of my portfolio.
 
-Unfortuntely I don't have examples of work I did writing in-app copy, microcopy, tweets, Facebook and Instagram copy, and other such ephemeral things, as most of that work was done prior to my time as a freelancer. (And, to be honest I never thought to take screenshots of it! Oops.) However I do have extensive experience with all of those and more, and I'm happy to talk through my approach.
+Unfortuntely I don't have examples of work I did writing in-app copy, microcopy, tweets, Facebook and Instagram copy, and other such ephemeral things, as most of that work was done prior to my time as a freelancer. (And, to be honest I never thought to take screenshots of it! Oops.) However I do have extensive experience with all of those and more, and I'm happy to talk through my approach. 
 
 Blog posts
 
