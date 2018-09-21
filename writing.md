@@ -1,19 +1,28 @@
 This page is getting fleshed out right now! Meantime, a lot of the stuff you would want to see is in the [Brand and Content Strategy](https://github.com/the-rachel/styles/blob/master/brand.md) section of my portfolio.
 
-Unfortuntely I don't have examples of work I did writing in-app copy, microcopy, tweets, Facebook and Instagram copy, and other such ephemeral things, as most of that work was done prior to my time as a freelancer. (And, to be honest I never thought to take screenshots of it! Oops.) However I do have extensive experience with all of those and more, and I'm happy to talk through my approach. 
 
-Blog posts
+#### Blog posts
 
-- ["You Are What You Do" blog post](https://blog.doing.io/you-are-what-you-do-e9da2d102709). (External link). This is a blog post I ghostwrote with edits from the team. The messaging and themes (namely "you are what you do") and the concepts presented in this post are my original work, done to help the team frame their narrative. This is a good example of using the above brand analysis to inform messaging themes.
+- ["You Are What You Do" blog post](https://blog.doing.io/you-are-what-you-do-e9da2d102709). (External link). This is a blog post I ghostwrote with edits from the team at Doing, an app focused on 'collecting the world's experiences.' The messaging and themes (namely "you are what you do") and the concepts presented in this post are my original work, done to help the team frame their narrative.
  
-- [An apology blog post](https://www.simple.com/company/my-apology-to-you). (External link) As tech screw-up apologies have almost become a genre unto themselves, I was very proud of this post I ghostwrote for our CEO. It meant a lot to him to get it right, so he trusted me absolutely to make sure we did. This was a pretty huge mess, and the post needed to explain some complex technical concepts, assure customers their accounts were safe, and demonstrate a genuine understanding of the impact.
+- [An apology blog post](https://www.simple.com/company/my-apology-to-you). (External link) As tech screw-up apologies have almost become a genre unto themselves, I was very proud of this post I ghostwrote for Simple's CEO. It meant a lot to him to get it right, so he trusted me absolutely to make sure we did. This was a pretty huge mess, and the post needed to explain some complex technical concepts, assure customers their accounts were safe, and demonstrate a genuine understanding of the impact.
 
-Video script and taglines
+#### Video script and taglines
 
 - [An early video ad for Simple](https://vimeo.com/160291191). (External link) I was instrumental in developing the concept for this ad, helped write and edit the script, and wrote the tagline at the end.
 
-Presentations
+#### Presentations
 
-- [A presentation on empathy](https://github.com/the-rachel/styles/blob/master/Simple/empathy2.pdf) (PDF). This ties together a bunch of research and some of our internal stuff for a talk on empathy. It focused a lot on customer service employees, who bear the brunt of empathy exhaustion, but was also given to people who design UX, write copy, or almost any customer-facing function. It talks about formulas and strategies for empathetic communication and design.
+- [A presentation on empathy](https://github.com/the-rachel/styles/blob/master/Simple/empathy2.pdf) (PDF). This ties together a bunch of research and some of Simple's internal stuff for a talk on empathy. It focused a lot on customer service employees, who bear the brunt of empathy exhaustion, but was also given to people who design UX, write copy, or almost any customer-facing function. It talks about formulas and strategies for empathetic communication and design.
 
+#### Other interesting writing
 
+- "[Why I play: Crafting](https://blog.dropleaf.io/why-i-play-crafting-561825612d5a)." (External link). "Why I play" was a blog series we did at dropleaf, a Ycombinator startup, focused on indie video game distribution, where I was Head of Community. This post is about why crafting tasks in video games appeal to my ADD brain.
+
+- "Review: Dungeon Souls
+
+- "[That one tweet thread about the Golden Lovers, annotated](https://medium.com/we-need-to-talk-about-wrestling/that-one-tweet-thread-about-the-golden-lovers-annotated-e9fc604e3a7f)." (External link). I blog about professional wrestling, and I was really excited about my favorite tag team reuniting, so I wrote a tweet thread about their history, thinking that non-wrestling-fans would be interested to hear about a decade-long gay love story in Japanese pro wrestling. The tweet thread blew up, and one of the members of the tag team retweeted it, saying it was "a great summary of our history." That just so happened to be (I think) the first time anyone involved in the story had endorsed something explicitly describing the story as "a gay love story." Even if it wasn't the first time, it was heard 'round the wrestling world. This post is me embellishing on the tweet thread, and is still mostly understandable if you don't know anything about wrestling. I've been told by more people than I can count that the tweet thread and blog post got them into (or brought them back to) wrestling. This tweet thread and essay were the reason I was interviewed for a forthcoming documentary about the wrestler who retweeted my tweet!
+
+*******
+
+Unfortuntely I don't have examples of work I did writing in-app copy, microcopy, tweets, Facebook and Instagram copy, and other such ephemeral things, as most of that work was done prior to my time as a freelancer. (And, to be honest I never thought to take screenshots of it! Oops.) However I do have extensive experience with all of those and more, and I'm happy to talk through my approach. 
