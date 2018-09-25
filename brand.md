@@ -1,6 +1,6 @@
 # Brand and Content Strategy
 
-###### *Looking for examples of my writing chops? There are quite a few in this repository, but if you're looking for more of a writer's portfolio situation, head over here.*
+###### *Looking for examples of my writing chops? There are quite a few in this repository, but if you're looking for more of a writer's portfolio situation, head over [here](https://github.com/the-rachel/styles/blob/master/writing.md). It's under construction, but there's still plenty there to get a sense of my writing style.*
 
 This repository represents a collection of some of the work I've done to teach tech companies to write in a way that is approachable, inclusive, and genuine. Over the course of my career it's been a personal and professional goal of mine to ensure that the companies I've represented are at the forefront of inclusive, intersectionally-just writing. Another huge goal of mine has been to teach the art of writing with empathy and true emotional intelligence. These things can't be faked or bought; they require the expertise of someone who has the company's values in mind as much as its bottom line. It also requires buy-in at many levels and a sincere understanding of the importance of inclusion and empathy.
 
