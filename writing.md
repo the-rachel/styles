@@ -15,6 +15,10 @@ This page is getting fleshed out right now! Meantime, a lot of the stuff you wou
 
 - [An early video ad for Simple](https://vimeo.com/160291191). (External link). I was instrumental in developing the concept for this ad, helped write and edit the script, and wrote the tagline at the end.
 
+#### Common language explanations of complex concepts
+
+- [Welcome to Hippo letter and policy summary](https://github.com/the-rachel/styles/blob/master/portfolio/Hippo%20HO6%20Booklet%20(1).pdf) (PDF). This is a letter and policy summary I wrote for a client, [Hippo](https://myhippo.com/), which is a streamlined home insurance provider. Along with introducing new clients to the brand's voice and style, it was meant to provide a common language overview of their policy. This was written two years ago (as of September 2018) and with only minor edits, remains part of the welcome package that's sent to new customers.
+
 #### Presentations
 
 - [A presentation on empathy](https://github.com/the-rachel/styles/blob/master/Simple/empathy2.pdf) (PDF). This ties together a bunch of research and some of Simple's internal stuff for a talk on empathy. It focused a lot on customer service employees, who bear the brunt of empathy exhaustion, but was also given to people who design UX, write copy, or almost any customer-facing function. It talks about formulas and strategies for empathetic communication and design.
