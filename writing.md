@@ -1,4 +1,4 @@
-This page is getting fleshed out right now! Meantime, a lot of the stuff you would want to see is in the [Brand and Content Strategy](https://github.com/the-rachel/styles/blob/master/brand.md) section of my portfolio.
+This page is getting fleshed out right now! There's still lots here, but it probably could be organized a little better. If you want to see more than what's here, check out the [Brand and Content Strategy](https://github.com/the-rachel/styles/blob/master/brand.md) section of my portfolio.
 
 #### Community guidelines
 
