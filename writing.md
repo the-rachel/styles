@@ -1,5 +1,9 @@
 This page is getting fleshed out right now! Meantime, a lot of the stuff you would want to see is in the [Brand and Content Strategy](https://github.com/the-rachel/styles/blob/master/brand.md) section of my portfolio.
 
+#### Community guidelines
+
+- [Call for community input on community guidelines](https://blog.dropleaf.io/we-need-your-input-on-our-community-guidelines-620b2770c9a6). (External link). I was Head of Community at dropleaf, an indie games distribution startup. We aimed to take on the sometimes-toxic culture around gaming with the way we created community. This post is both a manifesto of sorts, and a draft of inclusive guidelines for creating supportive and fun community.
+
 
 #### Blog posts
 
@@ -9,7 +13,7 @@ This page is getting fleshed out right now! Meantime, a lot of the stuff you wou
 
 #### Video script and taglines
 
-- [An early video ad for Simple](https://vimeo.com/160291191). (External link) I was instrumental in developing the concept for this ad, helped write and edit the script, and wrote the tagline at the end.
+- [An early video ad for Simple](https://vimeo.com/160291191). (External link). I was instrumental in developing the concept for this ad, helped write and edit the script, and wrote the tagline at the end.
 
 #### Presentations
 
