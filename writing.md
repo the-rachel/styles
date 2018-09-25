@@ -19,6 +19,8 @@
 
 - [Welcome to Hippo letter and policy summary](https://github.com/the-rachel/styles/blob/master/portfolio/Hippo%20HO6%20Booklet%20(1).pdf) (PDF). This is a letter and policy summary I wrote for a client, [Hippo](https://myhippo.com/), which is a streamlined home insurance provider. Along with introducing new clients to the brand's voice and style, it was meant to provide a common language overview of their policy. This was written two years ago (as of September 2018) and with only minor edits, remains part of the welcome package that's sent to new customers.
 
+- [Account agreement updates](https://github.com/the-rachel/styles/blob/master/portfolio/Gmail%20-%20Updates%20to%20your%20Simple%20Account%20Agreement.pdf) (PDF). When banks change their account agreements, they're required to let customers know. Simple always made sure to explain the changes in plain language. Here's a very early (2012) email I wrote to give an overview of the changes. 
+
 #### Presentations
 
 - [A presentation on empathy](https://github.com/the-rachel/styles/blob/master/Simple/empathy2.pdf) (PDF). This ties together a bunch of research and some of Simple's internal stuff for a talk on empathy. It focused a lot on customer service employees, who bear the brunt of empathy exhaustion, but was also given to people who design UX, write copy, or almost any customer-facing function. It talks about formulas and strategies for empathetic communication and design.
