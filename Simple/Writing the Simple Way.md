@@ -4,7 +4,7 @@ Welcome! Here you'll find a number of resources to help you as you create friend
 
 ## Start Here: 
  - [Here are our core writing values.](https://github.com/the-rachel/styles/blob/master/Simple/Big%20Stuff/styleguide.md) Read this if you need to know about the company voice and our general writing principles.
- - [Here's how to write for Simple for any occasion](https://github.com/the-rachel/styles/blob/master/Big%20Stuff/voiceandtone.md). Read this if you need some guidance on writing copy for a specific feature or piece of communication.
+ - [Here's how to write for Simple for any occasion](https://github.com/the-rachel/styles/blob/master/Simple/Big%20Stuff/voiceandtone.md). Read this if you need some guidance on writing copy for a specific feature or piece of communication.
 
 ## More:
 
