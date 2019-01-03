@@ -11,6 +11,8 @@
  
 - [An apology blog post](https://www.simple.com/company/my-apology-to-you). (External link) As tech screw-up apologies have almost become a genre unto themselves, I was very proud of this post I ghostwrote for Simple's CEO. It meant a lot to him to get it right, so he trusted me absolutely to make sure we did. This was a pretty huge mess, and the post needed to explain some complex technical concepts, assure customers their accounts were safe, and demonstrate a genuine understanding of the impact.
 
+- "[Temporary jobs that get you closer to your dreams](https://blog.instawork.com/temporary-jobs-that-get-you-closer-to-your-dreams-f6e50aa9064)." I ghostwrote this blog post spotlighting a gig worker who had been able to save enough money to buy a car.
+
 #### Video script and taglines
 
 - [An early video ad for Simple](https://vimeo.com/160291191). (External link). I was instrumental in developing the concept for this ad, helped write and edit the script, and wrote the tagline at the end.
@@ -32,6 +34,8 @@
 - "[Review: Dungeon Souls](https://blog.dropleaf.io/review-dungeon-souls-a74261a1cce5)." (External link). I play a video game genre I've never played before, and talk a bit about the genre and the specific game I was reviewing.
 
 - "[Rethinking E-Commerce Delivery In Emerging Markets](https://www.forbes.com/sites/forbestechcouncil/2018/10/16/rethinking-e-commerce-delivery-in-emerging-markets/#4dce41e566b8)." This is an article I ghostwrote for the author. It's a super-interesting examination of one-hour grocery delivery in the world's most densely populated city.
+
+- "[Will my parents know if I get a birth control prescription with their insurance?](https://www.heydoctor.co/learning-center/will-my-parents-know)." I researched and wrote this knowledge base article for a client (along with several others on similar topics).
 
 - "[That one tweet thread about the Golden Lovers, annotated](https://medium.com/we-need-to-talk-about-wrestling/that-one-tweet-thread-about-the-golden-lovers-annotated-e9fc604e3a7f)." (External link). I blog about professional wrestling, and I was really excited about my favorite tag team reuniting, so I wrote a tweet thread about their history, thinking that non-wrestling-fans would be interested to hear about a decade-long gay love story in Japanese pro wrestling. The tweet thread blew up, and one of the members of the tag team retweeted it, saying it was "a great summary of our history." That just so happened to be (I think) the first time anyone involved in the story had endorsed something explicitly describing the story as "a gay love story." Even if it wasn't the first time, it was heard 'round the wrestling world. This post is me embellishing on the tweet thread, and is still mostly understandable if you don't know anything about wrestling. I've been told by more people than I can count that the tweet thread and blog post got them into (or brought them back to) wrestling. This tweet thread and essay were the reason I was interviewed for a forthcoming documentary about the wrestler who retweeted my tweet!
 
