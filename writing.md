@@ -15,7 +15,7 @@
 
 - "[Rethinking E-Commerce Delivery In Emerging Markets](https://www.forbes.com/sites/forbestechcouncil/2018/10/16/rethinking-e-commerce-delivery-in-emerging-markets/#4dce41e566b8)." (External link). This is a *Forbes* article I ghostwrote for the author. It's a super-interesting examination of one-hour grocery delivery in the world's most densely populated city.
 
-- "[How to Change Education (From the Ground Up](https://blog.classdojo.com/how-to-change-education-from-the-ground-up/)." (External link). I ghostwrote this blog post with help from the ClassDojo leadership team. It's about ClassDojo's view of how to make K-12 education more democratic, interactive, and most importantly, lovable. 
+- "[How to Change Education (From the Ground Up)](https://blog.classdojo.com/how-to-change-education-from-the-ground-up/)." (External link). I ghostwrote this blog post with help from the ClassDojo leadership team. It's about ClassDojo's view of how to make K-12 education more democratic, interactive, and most importantly, lovable. 
 
 #### Video script and taglines
 
