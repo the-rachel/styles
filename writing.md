@@ -5,13 +5,17 @@
 - [Call for community input on community guidelines](https://blog.dropleaf.io/we-need-your-input-on-our-community-guidelines-620b2770c9a6). (External link). I was Head of Community at dropleaf, an indie games distribution startup. We aimed to take on the sometimes-toxic culture around gaming with the way we created community. This post is both a manifesto of sorts, and a draft of inclusive guidelines for creating supportive and fun community.
 
 
-#### Blog posts
+#### Ghostwriting
 
 - ["You Are What You Do" blog post](https://blog.doing.io/you-are-what-you-do-e9da2d102709). (External link). This is a blog post I ghostwrote with edits from the team at Doing, an app focused on 'collecting the world's experiences.' The messaging and themes (namely "you are what you do") and the concepts presented in this post are my original work, done to help the team frame their narrative.
  
 - [An apology blog post](https://www.simple.com/company/my-apology-to-you). (External link) As tech screw-up apologies have almost become a genre unto themselves, I was very proud of this post I ghostwrote for Simple's CEO. It meant a lot to him to get it right, so he trusted me absolutely to make sure we did. This was a pretty huge mess, and the post needed to explain some complex technical concepts, assure customers their accounts were safe, and demonstrate a genuine understanding of the impact.
 
 - "[Temporary jobs that get you closer to your dreams](https://blog.instawork.com/temporary-jobs-that-get-you-closer-to-your-dreams-f6e50aa9064)." (External link). I ghostwrote this blog post spotlighting a gig worker who had been able to save enough money to buy a car.
+
+- "[Rethinking E-Commerce Delivery In Emerging Markets](https://www.forbes.com/sites/forbestechcouncil/2018/10/16/rethinking-e-commerce-delivery-in-emerging-markets/#4dce41e566b8)." (External link). This is a *Forbes* article I ghostwrote for the author. It's a super-interesting examination of one-hour grocery delivery in the world's most densely populated city.
+
+- "[How to Change Education (From the Ground Up](https://blog.classdojo.com/how-to-change-education-from-the-ground-up/)." (External link). I ghostwrote this blog post with help from the ClassDojo leadership team. It's about ClassDojo's view of how to make K-12 education more democratic, interactive, and most importantly, lovable. 
 
 #### Video script and taglines
 
@@ -33,11 +37,11 @@
 
 - "[Review: Dungeon Souls](https://blog.dropleaf.io/review-dungeon-souls-a74261a1cce5)." (External link). I play a video game genre I've never played before, and talk a bit about the genre and the specific game I was reviewing.
 
-- "[Rethinking E-Commerce Delivery In Emerging Markets](https://www.forbes.com/sites/forbestechcouncil/2018/10/16/rethinking-e-commerce-delivery-in-emerging-markets/#4dce41e566b8)." (External link). This is an article I ghostwrote for the author. It's a super-interesting examination of one-hour grocery delivery in the world's most densely populated city.
-
 - "[Will my parents know if I get a birth control prescription with their insurance?](https://www.heydoctor.co/learning-center/will-my-parents-know)." (External link). I researched and wrote this knowledge base article for a client (along with several others on similar topics).
 
-- "[That one tweet thread about the Golden Lovers, annotated](https://medium.com/we-need-to-talk-about-wrestling/that-one-tweet-thread-about-the-golden-lovers-annotated-e9fc604e3a7f)." (External link). I blog about professional wrestling, and I was really excited about my favorite tag team reuniting, so I wrote a tweet thread about their history, thinking that non-wrestling-fans would be interested to hear about a decade-long gay love story in Japanese pro wrestling. The tweet thread blew up, and one of the members of the tag team retweeted it, saying it was "a great summary of our history." That just so happened to be (I think) the first time anyone involved in the story had endorsed something explicitly describing the story as "a gay love story." Even if it wasn't the first time, it was heard 'round the wrestling world. This post is me embellishing on the tweet thread, and is still mostly understandable if you don't know anything about wrestling. I've been told by more people than I can count that the tweet thread and blog post got them into (or brought them back to) wrestling. This tweet thread and essay were the reason I was interviewed for a forthcoming documentary about the wrestler who retweeted my tweet!
+- "[That one tweet thread about the Golden Lovers, annotated](https://medium.com/we-need-to-talk-about-wrestling/that-one-tweet-thread-about-the-golden-lovers-annotated-e9fc604e3a7f)." (External link). I was really excited about my favorite pro wrestling tag team reuniting, so I wrote a tweet thread about their history, thinking that non-wrestling-fans would be interested to hear about a decade-long gay love story in Japanese pro wrestling. It blew up more than I could have imagined! This post is me embellishing on the tweet thread, and is still mostly understandable if you don't know anything about wrestling. I've been told by more people than I can count that my writing got them into (or brought them back to) wrestling. This tweet thread and essay were the reason I was featured in a Canadian documentary called "Omega Man: A Wrestling Love Story."
+
+- "[Stars crossed - Tetsuya Naito and Kota Ibushi](https://www.njpw1972.com/52317)." (External link). This one is also about pro wrestling. My favorite thing about pro wrestling is the detailed storytelling—really! It exists! This is an essay I wrote for the world's second-largest pro wrestling promotion, about the history of the relationship between two of its biggest stars. It may not be terribly understandable if you're not familiar with the characters involved, but it's a great example of my ability to analyze the nuances of a story.
 
 *******
 
