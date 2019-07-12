@@ -17,3 +17,6 @@ I've written, ghostwritten, and/or edited every kind of copy you can imagine (an
 
 In addition to my tech writing, here you'll find blog posts and articles I've written and ghostwritten, to get a sense of how I write, think, and adapt my style to fit the needs of the piece.
 
+************
+
+### If you're interested in my consulting website, check it out at [gimmethelute.com](http://www.gimmethelute.com/). You can find a link to my résumé there, too. 
