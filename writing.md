@@ -31,13 +31,27 @@
 
 - [A presentation on empathy](https://github.com/the-rachel/styles/blob/master/Simple/empathy2.pdf) (PDF). This ties together a bunch of research and some of Simple's internal stuff for a talk on empathy. It focused a lot on customer service employees, who bear the brunt of empathy exhaustion, but was also given to people who design UX, write copy, or almost any customer-facing function. It talks about formulas and strategies for empathetic communication and design.
 
+#### Informational research articles
+Several of my clients have contracted me to create informational articles used for content marketing. I definitely don't see this as primarily SEO-focused (although it is, and I learned to pitch articles based on their SEO-friendliness). I want to actually provide value to the reader and show that the brand is informed, willing to give context and additional information when necessary to understand an issue fully. All of these are informational, but also showcase the brand's voice and values. It's also very important me to address taboo topics confidently, supportively, and open-mindedly, and to use gender-neutral language when talking about sexuality. This is just a few examples out of dozens I've written on a variety of topics. Most of these are not credited to me directly, but I wrote them. Let me know if you need proof of this!
+
+- "[What Is Herpes?](https://www.heydoctor.com/learn/what-is-herpes)" (External link). I not only detail the facts about this oft-understood disease, I tackle the issue holistically, talking about how breaking the stigma around the disease is an important public health measure.
+
+- "[Will My Parents Know If I Get A Birth Control Prescription With Their Insurance?](https://www.heydoctor.com/learn/will-my-parents-know)" (External link). Addresses the topic with depth and compassion, understanding that the reader of this article may be scared and trying to understand their options. 
+
+- "[What is a Chiropractor? What does a Chiropractor Do?](https://beta.kenshohealth.com/guides/what-is-a-chiropractor-what-does-a-chiropractor-do)" (External link to beta site—will update when site goes live). Answers typical questions about chiropractors, details the history of the chiropractic profession, and reports on what medical science says about the practice.
+
+- "[What Exactly is Gut Health?](https://beta.kenshohealth.com/guides/what-is-gut-health)" (External link to beta site—will update when site goes live). "Gut health" is all the rage right now in alternative health, and even in mainstream medicine. In this article, I break down what we do and don't know about it, helping to separate fact from magical thinking.
+
+- "[What is Crystal Healing?](https://beta.kenshohealth.com/guides/what-is-crystal-healing)" (External link to beta site—will update when site goes live). Some people call it bullshit, some people say it's saved their lives. In this article I detail how it's bullshit, and talk about some current issues in the crystal healing industry. But I also do so in such a way that does not alienate people for whom crystal healing has been legitimately helpful. My general strategy when writing about woo-woo alternative health stuff: don't sugarcoat the truth, but validate believers who have found real benefit.
+
+- "[What is Tantra?](https://beta.kenshohealth.com/guides/what-is-tantra)" (External link to beta site—will update when site goes live). I had a lot to cover in this: tantra wasn't originally about sex, and it's important for westerners to know how we got to the place we are today, where "tantra" is synonymous with slow, deliberate sex. But since most people reading this page would be looking to learn about tantric sex, there's also plenty of information about that in this article.
+
+
 #### Other interesting writing
 
 - "[Why I play: Crafting](https://blog.dropleaf.io/why-i-play-crafting-561825612d5a)." (External link). "Why I play" was a blog series we did at dropleaf, a Ycombinator startup, focused on indie video game distribution, where I was Head of Community. This post is about why crafting tasks in video games appeal to my ADD brain.
 
 - "[Review: Dungeon Souls](https://blog.dropleaf.io/review-dungeon-souls-a74261a1cce5)." (External link). I play a video game genre I've never played before, and talk a bit about the genre and the specific game I was reviewing.
-
-- "[Will my parents know if I get a birth control prescription with their insurance?](https://www.heydoctor.co/learning-center/will-my-parents-know)." (External link). I researched and wrote this knowledge base article for a client (along with several others on similar topics).
 
 - "[That one tweet thread about the Golden Lovers, annotated](https://medium.com/we-need-to-talk-about-wrestling/that-one-tweet-thread-about-the-golden-lovers-annotated-e9fc604e3a7f)." (External link). I was really excited about my favorite pro wrestling tag team reuniting, so I wrote a tweet thread about their history, thinking that non-wrestling-fans would be interested to hear about a decade-long gay love story in Japanese pro wrestling. It blew up more than I could have imagined! This post is me embellishing on the tweet thread, and is still mostly understandable if you don't know anything about wrestling. I've been told by more people than I can count that my writing got them into (or brought them back to) wrestling. This tweet thread and essay were the reason I was featured in a Canadian documentary called "Omega Man: A Wrestling Love Story."
 
