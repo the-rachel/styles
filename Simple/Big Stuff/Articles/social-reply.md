@@ -21,7 +21,7 @@
 2. They're wary. They want to make sure their money is going to be safe and the investment they need to make to switch is going to be a worthwhile one.
 
 **Example Copy**
-> *"Hey, Person. Totally understand where you're coming from on that one. We did have problems earlier this year, and the vast majority of the issues have been resolved. We are excited to have no customers and we hope we can show you what we've been working on."*
+> *"Hey, Person. Totally understand where you're coming from on that one. We did have problems earlier this year, and the vast majority of the issues have been resolved. We are excited to have new customers and we hope we can show you what we've been working on."*
 
 **What we want to convey**
 - Honesty. There's no reason to be cagey unless we're speculating on future releases or talking about personal info.
