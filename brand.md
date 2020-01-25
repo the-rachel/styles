@@ -15,7 +15,7 @@ Doing ([doing.io](https://www.doing.io)) aims to aggregate experiences and event
 
 ## Simple
 
-The majority of my experience and examples come from Simple. I worked at [Simple](https://simple.com) for five and a half years. During that time, I originated and curated Simple's brand voice through writing, mentoring writers, and editing every imaginable piece of writing and copy, large and small. Most importantly, I ran the effort to identify Simple's company values, and wrote Simple's style guides, which in turn set groundwork for training programs for Marketing and Customer Relations teams.
+[Simple](https://simple.com) represents a huge chunk of my career, and so far the largest opportunity I've had to help shape a company's brand voice. During my five and a half years at Simple, I originated and curated the brand voice through writing, mentoring writers, and editing every imaginable piece of writing and copy, large and small. Most importantly, I ran the effort to identify Simple's company values, and wrote Simple's style guides, which in turn set groundwork for training programs I ran for Marketing and Customer Relations teams. The policies and culture I helped build for the Marketing and Customer Relations teams were widely considered a big part of the success of Simple as a whole.
 
 ### The curated list.
 
