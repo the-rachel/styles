@@ -4,8 +4,7 @@
 
 |On the surface, the reader might be feeling... | And we want to make them to feel... |
 |:---------------|:---------------|
-| **Skeptical, skittish, hesitant:** 
-"What is this new bank and why do they want every personal detail about me?"| **Reassured:** "I understand why this information is needed, and I feel comfortable giving it."|
+| **Skeptical, skittish, hesitant:** "What is this new bank and why do they want every personal detail about me?"| **Reassured:** "I understand why this information is needed, and I feel comfortable giving it."|
 | **Excited, eager:** "aw yiss time to get a new bank"| **Reinforced:** "This is going to be painless."|
 
 ### Our copy should focus on:
