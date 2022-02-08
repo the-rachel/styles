@@ -1,8 +1,8 @@
-###### **This page is getting fleshed out right now! There's still lots here, but it probably could be organized a little better. If you want to see more than what's here, check out the [Brand and Content Strategy](https://github.com/the-rachel/styles/blob/master/brand.md) section of my portfolio.**
+###### **If you want to see more than what's here, check out the [Brand and Content Strategy](https://github.com/the-rachel/styles/blob/master/brand.md) section of my portfolio, or get in touch with me! Chances are, if there's a type of writing you need, I have done it, including grantwriting, technical writing, poetry, short fiction, and more.**
 
 #### Community guidelines
 
-- [Call for community input on community guidelines](https://blog.dropleaf.io/we-need-your-input-on-our-community-guidelines-620b2770c9a6). (External link). I was Head of Community at dropleaf, an indie games distribution startup. We aimed to take on the sometimes-toxic culture around gaming with the way we created community. This post is both a manifesto of sorts, and a draft of inclusive guidelines for creating supportive and fun community.
+- [Call for community input on community guidelines](https://blog.dropleaf.io/we-need-your-input-on-our-community-guidelines-620b2770c9a6). (External link). I was Head of Community at dropleaf, a (now-defunct) indie games distribution startup. We aimed to take on the sometimes-toxic culture around gaming with the way we created community. This post is both a manifesto of sorts, and a draft of inclusive guidelines for creating supportive and fun community.
 
 
 #### Ghostwriting
