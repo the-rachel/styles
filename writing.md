@@ -1,4 +1,4 @@
-###### **If you want to see more than what's here, check out the [Brand and Content Strategy](https://github.com/the-rachel/styles/blob/master/brand.md) section of my portfolio, or get in touch with me! Chances are, if there's a type of writing you need, I have done it, including grantwriting, technical writing, poetry, short fiction, and more.**
+###### **If you want to see more than what's here, check out the [Brand and Content Strategy](https://github.com/the-rachel/styles/blob/master/brand.md) section of my portfolio, or get in touch with me! Chances are, if there's a type of writing you need, I have done it, including grantwriting, technical writing, poetry, short fiction, and more. Things like esoteric copy, in-app copy, product copy, social media posts, etc. are a bit harder to come by, but you can bet I have opinions about them consistent with someone who's thought about them a *lot*.**
 
 #### Community guidelines
 
