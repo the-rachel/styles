@@ -11,7 +11,6 @@ As a consultant, I help my clients figure out their brand voice and how to execu
 This is also where you can find two of the presentations I wrote for internal brand guidance at Simple.
 
 ## [Writing Portfolio](https://github.com/the-rachel/styles/blob/master/writing.md)
-(It's currently under construction, but there's still plenty here and in the section above!)
 
 I've written, ghostwritten, and/or edited every kind of copy you can imagine (and some you can't). Blog posts, web copy, essays, personal correspondence, articles for publication, in-app copy, social media posts, video scripts... whatever it is, I've done it.
 
