@@ -14,8 +14,4 @@ This is also where you can find two of the presentations I wrote for internal br
 
 I've written, ghostwritten, and/or edited every kind of copy you can imagine (and some you can't). Blog posts, web copy, essays, personal correspondence, articles for publication, in-app copy, social media posts, video scripts... whatever it is, I've done it.
 
-In addition to my tech writing, here you'll find blog posts and articles I've written and ghostwritten, to get a sense of how I write, think, and adapt my style to fit the needs of the piece.
-
-************
-
-### If you're interested in my consulting website, check it out at [gimmethelute.com](http://www.gimmethelute.com/). You can find a link to my résumé there, too. 
+In addition to my tech writing, here you'll find blog posts and articles I've written and ghostwritten, to get a sense of how I write, think, and adapt my style to fit the needs of the piece. 
