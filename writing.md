@@ -14,7 +14,7 @@
 
 - ["You Are What You Do" blog post](https://blog.doing.io/you-are-what-you-do-e9da2d102709). (External link). This is a blog post I ghostwrote with edits from the team at Doing, an app focused on 'collecting the world's experiences.' The messaging and themes (namely "you are what you do") and the concepts presented in this post are my original work, done to help the team frame their narrative.
  
-- [An apology blog post](https://www.simple.com/company/my-apology-to-you). (External link) As tech screw-up apologies have almost become a genre unto themselves, I was very proud of this post I ghostwrote for Simple's CEO. It meant a lot to him to get it right, so he trusted me absolutely to make sure we did. This was a pretty huge mess, and the post needed to explain some complex technical concepts, assure customers their accounts were safe, and demonstrate a genuine understanding of the impact.
+- [An apology blog post](https://github.com/the-rachel/styles/blob/master/portfolio/My%20Apology%20to%20You.pdf). (PDF) As tech screw-up apologies have almost become a genre unto themselves, I was very proud of this post I ghostwrote for Simple's CEO. It meant a lot to him to get it right, so he trusted me absolutely to make sure we did. This was a pretty huge mess, and the post needed to explain some complex technical concepts, assure customers their accounts were safe, and demonstrate a genuine understanding of the impact.
 
 - "[Temporary jobs that get you closer to your dreams](https://blog.instawork.com/temporary-jobs-that-get-you-closer-to-your-dreams-f6e50aa9064)." (External link). I ghostwrote this blog post spotlighting a gig worker who had been able to save enough money to buy a car.
 
